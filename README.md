@@ -6,7 +6,7 @@ This project implements an advanced Agentic Retrieval-Augmented Generation (RAG)
 
 This architecture mimics a human researcher: searching, verifying sources, and refining the search query if the initial results are poor.
 
-##🏗️ Architecture
+## 🏗️ Architecture
 The application is built using LangGraph, allowing for cyclic workflows and state management.
 
 ###The Flow:
